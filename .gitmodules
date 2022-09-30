@@ -1,0 +1,12 @@
+[submodule "sub/boost.python"]
+	path = sub/boost.python
+	url = https://github.com/boostorg/python.git
+[submodule "sub/pybind11"]
+	path = sub/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "sub/doxygen"]
+	path = sub/doxygen
+	url = https://github.com/doxygen/doxygen.git
+[submodule "sub/cmake"]
+	path = sub/cmake
+	url = https://github.com/Kitware/CMake.git
